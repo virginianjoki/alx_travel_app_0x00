@@ -1,0 +1,1 @@
+ django, djangorestframework, django-cors- headers, celery,rabbitmq, and drf-yasg
